@@ -6,7 +6,7 @@ interface Cores {
   bgInfo?: string;
   textColor: string;
   bgPrimaryVariant: string; 
-  textColorVariant: string;
+  textColorVariant: string; 
 }
 
 const lightTheme: Cores = {
