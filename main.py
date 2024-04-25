@@ -15,7 +15,7 @@ if not os.path.exists('usuários.csv'):
         writer = csv.writer(f)
         writer.writerow(['Nome', 'Senha'])
 
-@app.route('/')
+@app.route('/') 
 def home():
     return redirect('/login')
 
