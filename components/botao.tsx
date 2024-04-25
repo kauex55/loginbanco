@@ -10,7 +10,7 @@ type BotaoProps = {
 
 
 const Botao= ({text, color, href}: BotaoProps) => {
-
+ 
     const styles = StyleSheet.create({
         botao: {
             alignItems: 'center',

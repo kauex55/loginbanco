@@ -11,7 +11,7 @@ const styles = StyleSheet.create({
     text : {
         fontSize: 20,
         fontWeight: '500',
-        color: cores.textColor,
+        color: cores.textColor, 
         alignContent: 'center',
         marginTop: 20,
         marginLeft: 25,

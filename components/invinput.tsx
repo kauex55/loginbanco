@@ -11,7 +11,7 @@ export default function InventoryInput({label}) {
         marginBottom: 10,
         marginTop: 30,
         paddingTop: 14,
-        position: 'relative',
+        position: 'relative', 
     },
     label: {
         position: 'absolute',

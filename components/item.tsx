@@ -5,7 +5,7 @@
     import { Link } from "expo-router";
 
 type ItensProps = {
-    id: string,
+    id: string, 
     item: string,
     href : string,
 }

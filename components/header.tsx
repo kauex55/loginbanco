@@ -23,7 +23,7 @@ export default function Header ({cor, texto}: HeaderProps) {
       justifyContent:'center',
       alignItems:'center',
       borderBottomLeftRadius: 5,
-      borderBottomRightRadius: 5,
+      borderBottomRightRadius: 5, 
     },
 
     textoed:{

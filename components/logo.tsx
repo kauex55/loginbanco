@@ -10,7 +10,7 @@ const Logo = ({text, color}: LogoProps ) => {
     const styles = StyleSheet.create({
         header: {
             marginBottom: 20,
-            gap: 20,
+            gap: 20, 
             flexDirection: 'column',
             alignItems: 'center',
             justifyContent: 'center',

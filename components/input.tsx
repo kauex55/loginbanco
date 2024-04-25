@@ -15,7 +15,7 @@ export default function InputField({ label, placeholder, secureTextEntry }: Inpu
     height: 40,
     width: '95%',
     margin: 12,
-    padding: 10,
+    padding: 10, 
     borderWidth: 1,
     borderColor: hover,
     backgroundColor: cores.bgPrimaryVariant,

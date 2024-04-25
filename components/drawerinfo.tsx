@@ -14,7 +14,7 @@
             fontWeight: "600",
             color: cores.textColor ,
         },
-        secundario:{
+        secundario:{ 
             fontSize: 12,
             lineHeight: 14.52,
             fontWeight: "400",
