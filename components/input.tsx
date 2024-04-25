@@ -5,7 +5,7 @@ import  useTheme from "../temas/Temas";
 interface InputFieldProps extends TextInputProps{
   label: string;
 }
-
+ 
 
 export default function InputField({ label, placeholder, secureTextEntry }: InputFieldProps)  {
   const [hover, sethover] = React.useState('#f5f5f5');
